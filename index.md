@@ -3,5 +3,3 @@
 ### Task
 
 The End?
-
-<!-- use lowercase -->
